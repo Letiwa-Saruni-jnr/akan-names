@@ -25,4 +25,47 @@ h1 {
   margin-right: 16%;
   opacity: 0.9;
   border-radius: 10px;
-  
+}
+#get{
+color: whitesmoke;
+text-shadow: 2px 2px 5px black;
+margin-bottom: 10px;
+}
+h2{
+text-align: center;
+font-weight: bold;
+color:rgb(255, 255, 255);
+font-family: 'Quattrocento', serif;
+}
+.form{
+margin-bottom: 20px;
+padding-bottom: 20px;
+}
+.form-group{
+color: rgb(255, 255, 255);
+font-weight: 600;
+font-size: 18px;
+font-family: 'Quattrocento', serif;
+}
+}
+#get{
+  color: whitesmoke;
+  text-shadow: 2px 2px 5px black;
+  margin-bottom: 10px;
+}
+h2{
+  text-align: center;
+  font-weight: bold;
+  color:rgb(255, 255, 255);
+  font-family: 'Quattrocento', serif;
+}
+.form{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+.form-group{
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-size: 18px;
+  font-family: 'Quattrocento', serif;
+}
